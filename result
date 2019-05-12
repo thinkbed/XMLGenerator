@@ -1,0 +1,272 @@
+ResHeroPalaceHeroID
+ResMoneyBuffInfoList
+ResFriendDegreeConf,ExtraCurrencyBuffList,ExtraCurrency is not plain type
+ResAward
+ResAward
+ResAward
+MiniGameRate
+BuffTriggerConf
+BuffEffectConf
+BinBattleFactorIconCfg
+DropItem
+FairArenaHeroSkillCfg
+RandomBattleGroup
+RandomBattleGroupConf,BattleGroup,FightItem is not plain type.
+ResAward
+GainTipData
+FreeHeroInfo
+ResCond
+ResAward
+ResFetterProperty
+ResAward
+ResHeroPalaceAttr
+ResAward
+ResAward
+TriggerResult
+ResCond
+ResCond
+ResCond
+UnionWarCollectStrengthenInfo
+ResMicrocosmBreakThroughCost
+HoroscopeFirstShootSectionBasicConf
+ResMiniGamePlotSelect
+ShopDiscountInfo
+ResAward
+ResAward
+ResAward
+BinBattleAnalysisItemCfg
+TreasureChip
+ResAward
+AttrNumLevelLimitCfg
+ShowSkillInfo
+ResGuidePictureContent
+ResCond
+ResCond
+ResCond
+ResAward
+ResAward
+HallSubMenuItemList
+ResShowHallActivityButtonConfig,SubMenuList,List is not plain type
+ResAward
+ResCond
+ResCond
+ResAward
+ResAward
+ResCond
+ResAward
+ResShakaQuizChoiceCfg
+ResRefluxDiscount
+ResMasqueradeDialogData
+ResAward
+ResAward
+ResAward
+ResShopTimeLoop
+NpcAreaTriggerPos
+ResPriceConf
+ResAward
+ResAward
+ResAreaIllustrationHeroID
+ResLuckGatherTurnTableItem
+ResAward
+ResAward
+ResWalkThroughMonsterConf
+ActivityDungeonVolumeInfo
+ResSingleSupriseMonsterCfg
+ResSupriseMonsterCfg,SupriceMonsterCfg,SurpriseFightItem is not plain type.
+ResSupriseMonsterCfg,SupriceMonsterCfg,Award is not plain type.
+ResSupriseMonsterCfg,SupriceMonsterCfg,SurpriseFightItem is not plain type.
+ResSupriseMonsterCfg,SupriceMonsterCfg,Award is not plain type.
+ResSupriseMonsterCfg,SupriceMonsterCfg,SurpriseFightItem is not plain type.
+ResSupriseMonsterCfg,SupriceMonsterCfg,Award is not plain type.
+ResSupriseMonsterCfg,SupriceMonsterCfg,SurpriseFightItem is not plain type.
+ResSupriseMonsterCfg,SupriceMonsterCfg,Award is not plain type.
+ResFavorLevelDescItem
+ResNpcDialogOptInfo
+ResRehearsalMonsterConf
+ResFriendPresentData
+ResBattleMonsterSkill
+ResCycleTime
+BinBattlePlayEnergyCfg
+BinBattlePlayEnergyCfg
+BinBattlePlayEnergyCfg
+ResAward
+ResCond
+FightItem
+ResSingleResourceDailyOutput
+ResTimesLimitPlayDailyOutputConf,ResourceDailyOutput,SingleTimesLImitPlayDailyOutput is not plain type.
+ResTimesLimitPlayDailyOutputConf,ResourceDailyOutput,SingleTimesLImitPlayDailyOutput is not plain type.
+ResTimesLimitPlayDailyOutputConf,ResourceDailyOutput,SingleTimesLImitPlayDailyOutput is not plain type.
+ResCond
+ResAward
+ResAward
+ResAward
+MatPerfectCondDesc
+ResCond
+ResAward
+ResPropGetWay
+ResCostItem
+ResStarFortuneCondType
+ResPkgVersionInfo
+ResAward
+ResCond
+ResCond
+ResAward
+ResMermaidChoiceAwards
+ResAward
+ResAward
+ResMicrocosmDegradeCost
+OfflineArenaScoreAward
+OfflineArenaSceneIDConf
+ResNewbieGuidePrepareGoData
+HelpHeroStruct
+FairArenaHeroSkillCfg
+ResHeroPalaceAttr
+ResBattleMonsterMatrixInfo
+ResBattleMonsterMatrixInfo
+ResPropGetWay
+ResAward
+ResAward
+ResCond
+ResCond
+ResAward
+ResPropGetWay
+ResCond
+ResBattleSkipCondtion
+BinBattlePlayAddDamageCfg
+ResSingleResourcePriceInfo
+ResResourceReclaimPriceConf,ResourcePriceInfo,ItemInfo is not plain type.
+ResResourceReclaimPriceConf,ResourcePriceInfo,ItemInfo is not plain type.
+ResResourceReclaimPriceConf,ResourcePriceInfo,ItemInfo is not plain type.
+ResAward
+ResAward
+ResStarLableDesc
+ResAward
+ResMoneyBuffInfo
+ResActItemList
+ResActProgress,BarterList,List is not plain type
+ResActItemList
+ResActProgress,AwardList,List is not plain type
+ResActItemList
+ResActProgress,ExtraAwardList,List is not plain type
+ResCond
+ResAward
+ResCutSceneTriggerCondition
+ResAward
+ResAward
+ResAward
+ResAward
+RobotRate
+ResAward
+ResFakeRandomGiftParam
+ResCond
+ResFriendPresentDataList
+ResFriendPresentConf,PresentList,Presents is not plain type
+ResSingleTimesLImitPlayDailyOutput
+BinBattleAuspiciousAnimalSkillItemCfg
+ResAward
+ResAward
+ResCond
+ResAward
+ResAward
+ResAward
+ResShakaQuizChoiceCfg
+ResLibraMapDesc
+ResCond
+ResAward
+BinBattleBubbleItem
+ResAttrRegion
+FightItem
+ResAward
+ResCond
+ResCond
+ResCond
+ResStarDesc
+ResNewbieGuideTriggerTimeItem
+ResNewbieGuideTriggerConditionItem
+ResNewbieGuideTriggerConditionItem
+ResAward
+ResCond
+ResAward
+ResOneYuanLuckyDrawSingleAward
+ResOneYuanLuckyDrawAwardConf,AwardList,Award is not plain type.
+ResOneYuanLuckyDrawAwardConf,AwardList,Award is not plain type.
+ResOneYuanLuckyDrawAwardConf,AwardList,Award is not plain type.
+ResAshramAwardInfo
+ResAshramAwardsCfg,AwardList,Award is not plain type.
+ResAshramAwardsCfg,AwardList,Award is not plain type.
+ResAshramAwardsCfg,AwardList,Award is not plain type.
+FightItem
+ResAward
+ResAward
+ResWarChessGoods
+TreasureChip
+ResAttrRegion
+CultivationPropConf
+ResDailyCallableResourceInfo
+ResMicrocosmDefineEngrave
+ResNewbieGuidePropIntroduceData
+ResActivityCycle
+ResActivity,Cycle,CycleTime is not plain type
+ResActItemList
+ResActivityCarnivalProgress,AwardList,List is not plain type
+ResCond
+ResCond
+MonsterInfoStruct
+BornZone
+SafetyZone
+ReviveZone
+BinBattleAuspiciousAnimalSkillGroupCfg
+BinBattleAuspiciousAnimalSkillCfg,Group,Skill is not plain type.
+BinBattleAuspiciousAnimalSkillCfg,Group,Skill is not plain type.
+BinBattleAuspiciousAnimalSkillCfg,Group,Skill is not plain type.
+BinBattleAuspiciousAnimalSkillCfg,Group,Skill is not plain type.
+ResPandoraContractExchangeAward
+ResPandoraContractAttrConf,PriorExchangeRule,Award is not plain type
+ResPandoraContractExchangeAward
+ResPandoraContractAttrConf,OtherExchangeRule,Award is not plain type
+ResPriceConf
+ResSceneNpcTalkConfig
+ResCostItem
+ResCostItem
+CultivationPropConf
+CultivationCostObjCfg
+ResPriceConf
+ResAward
+ResCarnivalBoxAwardInfo
+ResAward
+FreeHeroInfo
+RobotRate
+BinHeroBiographyContent
+BinHeroBiographyVoice
+RobotRate
+RemindTime
+RemindTime
+WeekDungeonDropInfo
+ResFetterHero
+ResAward
+ResAward
+ResCarnivalClassInfo
+ResFavorDialogTxtConf
+ResPriceConf
+ResNewbieGuideTriggerConditionItem
+ResNewbieGuideTriggerTimeItem
+ResNewbieGuideTriggerConditionItem
+ResNewbieGuideTriggerConditionItem
+ResCond
+ResAward
+ResCond
+ResAchvExtFunction
+ResCond
+PropConf
+CultivationPropConf
+ResAward
+ResAward
+ResBuff
+HallSubMenuItem
+WeekDungeonDropInfo
+ResRefluxTurnTableItem
+RobotRate
+ResAward
+ResCond
+ResAward
+ResNewbieGuideHighlightedWidgetInfo

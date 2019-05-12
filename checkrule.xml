@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<CheckRules>
+    <ExcelCheckRule Filename="掉落方案表" DataStructName="DropConfigDataRecords">
+        <RequireData Filename="掉落集合表" DataStructName="DropItemConfigDataRecords"/>
+        <RequireData Filename="活动掉落集合表" DataStructName="DropItemConfigDataRecords"/>
+        <ColumnGroupCheck KeyCount="3" Key1="[掉落集合]" Key2="6" Key3="[ID]" CheckType="Exist" RequireData="DropItemConfigDataRecords" CheckColumn="掉落集合ID"/>
+    </ExcelCheckRule>
+
+    <ExcelCheckRule Filename="掉落集合表" DataStructName="DropItemConfigDataRecords">
+        <RequireData Filename="道具配置表" DataStructName="PropDataRecords"/>
+        <RequireData Filename="Y英雄配置表" DataStructName="HeroConfigRecords"/>
+        <RequireData Filename="小宇宙配置" DataStructName="MicrocosmConfRecords"/>
+    </ExcelCheckRule>
+</CheckRules>
